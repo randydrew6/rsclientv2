@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace RS_Client
+{
+    public class Player
+    {
+        public string PlayerName { get; set; }
+        public Skill Firemaking { get; set; }
+        public Skill Farming { get; set; }
+
+        public Player(string aPlayerName)
+        {
+            this.PlayerName = aPlayerName;
+            Firemaking = new Skill("Firemaking");
+            Farming = new Skill("Farming");
+        }
+    }
+}

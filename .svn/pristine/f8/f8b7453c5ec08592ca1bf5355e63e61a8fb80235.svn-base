@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace RS_Client
+{
+    public class Variables
+    {
+        public string twitteruser { get; set; }
+        public string emailuser { get; set; }
+        public string emailpass { get; set; }
+        public string latesttweet { get; set; }
+        public string latestemail { get; set; }
+        public bool ytthrochannel { get; set; }
+        public int tries { get; set; }
+        public int style { get; set; }
+    }
+}

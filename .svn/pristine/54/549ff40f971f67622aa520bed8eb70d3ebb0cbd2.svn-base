@@ -1,0 +1,897 @@
+<HTML><HEAD><TITLE>Build Report</TITLE></HEAD><BODY>
+
+<B><FONT FACE="Arial" SIZE=4><P ALIGN="center">
+Build Report</P></B></FONT>
+
+<B><I><FONT FACE="Arial" ><P>
+Summary</P></I></B></FONT>
+
+<TABLE CELLSPACING=0 STYLE="margin-left:20" BORDER=0 CELLPADDING=4 WIDTH=600>
+
+<TR>
+
+<TD WIDTH="45%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Number of features:
+</FONT></P></TD>
+
+<TD WIDTH="55%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+1
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="45%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Number of merge modules:
+</FONT></P></TD>
+
+<TD WIDTH="55%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+0
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="45%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Number of dynamic links:
+</FONT></P></TD>
+
+<TD WIDTH="55%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+0
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="45%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Media:
+</FONT></P></TD>
+
+<TD WIDTH="55%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+SingleImage
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="45%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Number of files:
+</FONT></P></TD>
+
+<TD WIDTH="55%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+21
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="45%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Uncompressed files total size:
+</FONT></P></TD>
+
+<TD WIDTH="55%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+0.00 MB
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="45%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Compressed files total size:
+</FONT></P></TD>
+
+<TD WIDTH="55%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+0.00 MB
+</FONT></P></TD>
+
+</TR>
+
+</TABLE>
+
+<B><I><FONT FACE="Arial" ><P>
+Features</P></I></B></FONT>
+
+<TABLE CELLSPACING=0 STYLE="margin-left:20" BORDER=0 CELLPADDING=4 WIDTH=600>
+
+<TR>
+
+<TD WIDTH="100%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+AlwaysInstall
+</FONT></P></TD>
+
+</TR>
+
+</TABLE>
+
+<B><I><FONT FACE="Arial" ><P>
+Merge  Modules</P></I></B></FONT>
+
+<TABLE CELLSPACING=0 STYLE="margin-left:20" BORDER=0 CELLPADDING=4 WIDTH=600>
+
+</TABLE>
+
+<B><I><FONT FACE="Arial" ><P>
+Dynamic links</P></I></B></FONT>
+
+<TABLE CELLSPACING=0 STYLE="margin-left:20" BORDER=0 CELLPADDING=4 WIDTH=600>
+
+</TABLE>
+
+<B><I><FONT FACE="Arial" ><P>
+Files</P></I></B></FONT>
+
+<TABLE CELLSPACING=0 STYLE="margin-left:20" BORDER=0 CELLPADDING=4 WIDTH=600>
+
+<TR>
+
+<TD WIDTH="30%"VALIGN="center"><B><I><FONT FACE="Arial"SIZE=2><P>
+
+File
+</I></B></FONT></P></TD>
+
+<TD WIDTH="20%"VALIGN="center"><B><I><FONT FACE="Arial"SIZE=2><P>
+
+Destination
+</I></B></FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><B><I><FONT FACE="Arial"SIZE=2><P>
+
+Feature
+</I></B></FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><B><I><FONT FACE="Arial"SIZE=2><P>
+
+Last Modified
+</I></B></FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><B><I><FONT FACE="Arial"SIZE=2><P>
+
+Size (bytes)
+</I></B></FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><B><I><FONT FACE="Arial"SIZE=2><P>
+
+Version
+</I></B></FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="30%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+RS Client.exe
+</FONT></P></TD>
+
+<TD WIDTH="20%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+[ProgramFilesFolder]Smokin Mils\SetupClient
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Always Install
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+5/19/2012 4:31:12 PM
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+560128
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+1.0.0.0
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="30%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+AxInterop.WMPLib.dll
+</FONT></P></TD>
+
+<TD WIDTH="20%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+[ProgramFilesFolder]Smokin Mils\SetupClient
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Always Install
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+5/19/2012 4:31:11 PM
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+61440
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+1.0.0.0
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="30%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Interop.SHDocVw.dll
+</FONT></P></TD>
+
+<TD WIDTH="20%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+[ProgramFilesFolder]Smokin Mils\SetupClient
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Always Install
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+5/19/2012 4:31:10 PM
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+143360
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+1.1.0.0
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="30%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Interop.WMPLib.dll
+</FONT></P></TD>
+
+<TD WIDTH="20%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+[ProgramFilesFolder]Smokin Mils\SetupClient
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Always Install
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+5/19/2012 4:31:11 PM
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+339968
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+1.0.0.0
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="30%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+FileExplorer.cs
+</FONT></P></TD>
+
+<TD WIDTH="20%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+[ProgramFilesFolder]Smokin Mils\SetupClient\source
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Always Install
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+2/26/2012 12:13:02 PM
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+3792
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="30%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Form1.cs
+</FONT></P></TD>
+
+<TD WIDTH="20%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+[ProgramFilesFolder]Smokin Mils\SetupClient\source
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Always Install
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+5/19/2012 3:31:47 PM
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+177004
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="30%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Form1.Designer.cs
+</FONT></P></TD>
+
+<TD WIDTH="20%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+[ProgramFilesFolder]Smokin Mils\SetupClient\source
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Always Install
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+5/19/2012 5:06:49 AM
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+222494
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="30%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+popout.cs
+</FONT></P></TD>
+
+<TD WIDTH="20%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+[ProgramFilesFolder]Smokin Mils\SetupClient\source
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Always Install
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+2/26/2012 12:13:02 PM
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+462
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="30%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+popout.Designer.cs
+</FONT></P></TD>
+
+<TD WIDTH="20%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+[ProgramFilesFolder]Smokin Mils\SetupClient\source
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Always Install
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+2/26/2012 12:13:02 PM
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+2573
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="30%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Program.cs
+</FONT></P></TD>
+
+<TD WIDTH="20%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+[ProgramFilesFolder]Smokin Mils\SetupClient\source
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Always Install
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+2/26/2012 12:13:02 PM
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+524
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="30%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+AssemblyInfo.cs
+</FONT></P></TD>
+
+<TD WIDTH="20%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+[ProgramFilesFolder]Smokin Mils\SetupClient\source\Properties
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Always Install
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+2/26/2012 12:13:02 PM
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+1444
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="30%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Resources.Designer.cs
+</FONT></P></TD>
+
+<TD WIDTH="20%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+[ProgramFilesFolder]Smokin Mils\SetupClient\source\Properties
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Always Install
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+5/17/2012 6:11:38 AM
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+17379
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="30%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Settings.Designer.cs
+</FONT></P></TD>
+
+<TD WIDTH="20%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+[ProgramFilesFolder]Smokin Mils\SetupClient\source\Properties
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Always Install
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+2/26/2012 12:13:02 PM
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+1090
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="30%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+RandysStringFunctions.cs
+</FONT></P></TD>
+
+<TD WIDTH="20%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+[ProgramFilesFolder]Smokin Mils\SetupClient\source
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Always Install
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+5/19/2012 5:04:22 AM
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+2458
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="30%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Splash.cs
+</FONT></P></TD>
+
+<TD WIDTH="20%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+[ProgramFilesFolder]Smokin Mils\SetupClient\source
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Always Install
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+5/6/2012 4:42:13 AM
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+5193
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="30%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Splash.Designer.cs
+</FONT></P></TD>
+
+<TD WIDTH="20%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+[ProgramFilesFolder]Smokin Mils\SetupClient\source
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Always Install
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+5/6/2012 4:42:13 AM
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+11082
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="30%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Form1.resx
+</FONT></P></TD>
+
+<TD WIDTH="20%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+[ProgramFilesFolder]Smokin Mils\SetupClient\source
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Always Install
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+5/19/2012 5:06:54 AM
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+36676
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="30%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+popout.resx
+</FONT></P></TD>
+
+<TD WIDTH="20%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+[ProgramFilesFolder]Smokin Mils\SetupClient\source
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Always Install
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+2/26/2012 12:13:02 PM
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+7846
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="30%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Resources.resx
+</FONT></P></TD>
+
+<TD WIDTH="20%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+[ProgramFilesFolder]Smokin Mils\SetupClient\source\Properties
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Always Install
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+5/17/2012 6:11:38 AM
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+19977
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="30%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Splash.resx
+</FONT></P></TD>
+
+<TD WIDTH="20%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+[ProgramFilesFolder]Smokin Mils\SetupClient\source
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Always Install
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+5/6/2012 4:42:13 AM
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+7846
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+
+</FONT></P></TD>
+
+</TR>
+
+<TR>
+
+<TD WIDTH="30%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+RS Client.csproj
+</FONT></P></TD>
+
+<TD WIDTH="20%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+[ProgramFilesFolder]Smokin Mils\SetupClient\source
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+Always Install
+</FONT></P></TD>
+
+<TD WIDTH="15%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+5/17/2012 8:01:51 AM
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+12625
+</FONT></P></TD>
+
+<TD WIDTH="10%"VALIGN="center"><FONT FACE="Times New Roman"SIZE=2><P>
+
+
+</FONT></P></TD>
+
+</TR>
+
+</TABLE>
+
+</BODY></HTML>
+

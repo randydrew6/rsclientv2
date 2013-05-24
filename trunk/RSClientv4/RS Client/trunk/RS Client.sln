@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RS Client", "RS Client\RS Client.csproj", "{BD572BDF-A7EF-4B14-BFDC-39BFCB176330}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupProject", "SetupProject\SetupProject.vdproj", "{AE3C237E-511A-4DB4-9EFF-22322CECA764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD572BDF-A7EF-4B14-BFDC-39BFCB176330}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{BD572BDF-A7EF-4B14-BFDC-39BFCB176330}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{BD572BDF-A7EF-4B14-BFDC-39BFCB176330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD572BDF-A7EF-4B14-BFDC-39BFCB176330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD572BDF-A7EF-4B14-BFDC-39BFCB176330}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD572BDF-A7EF-4B14-BFDC-39BFCB176330}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{BD572BDF-A7EF-4B14-BFDC-39BFCB176330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD572BDF-A7EF-4B14-BFDC-39BFCB176330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD572BDF-A7EF-4B14-BFDC-39BFCB176330}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{BD572BDF-A7EF-4B14-BFDC-39BFCB176330}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{AE3C237E-511A-4DB4-9EFF-22322CECA764}.CD_ROM|Any CPU.ActiveCfg = Release
+		{AE3C237E-511A-4DB4-9EFF-22322CECA764}.Debug|Any CPU.ActiveCfg = Debug
+		{AE3C237E-511A-4DB4-9EFF-22322CECA764}.DVD-5|Any CPU.ActiveCfg = Debug
+		{AE3C237E-511A-4DB4-9EFF-22322CECA764}.Release|Any CPU.ActiveCfg = Release
+		{AE3C237E-511A-4DB4-9EFF-22322CECA764}.SingleImage|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+		Svn-Managed = True
+	EndGlobalSection
+EndGlobal

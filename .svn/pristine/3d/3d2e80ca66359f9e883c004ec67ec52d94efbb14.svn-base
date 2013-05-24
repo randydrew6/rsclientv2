@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RS Client">
+</Property><Property Name="Solution File" Value="C:\Users\Randydrew6\Documents\RS Client\RS Client.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Randydrew6\Documents\RS Client\RS Client.v11.suo">
+</Property><Property Name="Date" Value="Monday, April 23, 2012">
+</Property><Property Name="Time" Value="22:05 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="3" Project="" Source="RS Client.sln" Description="SafeUpgrade">
+</Event><Event ErrorLevel="0" Project="" Source="RS Client.sln" Description="File successfully backed up as C:\Users\Randydrew6\Documents\RS Client\Backup\RS Client.sln">
+</Event><Event ErrorLevel="0" Project="" Source="RS Client.v11.suo" Description="File successfully backed up as C:\Users\Randydrew6\Documents\RS Client\Backup\RS Client.v11.suo">
+</Event><Event ErrorLevel="0" Project="" Source="RS Client.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="RS Client.sln" Description="Converted">
+</Event></UpgradeLog>
